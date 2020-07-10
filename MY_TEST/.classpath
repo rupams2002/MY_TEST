@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="MyLibrary/JSON/json-20180130.jar"/>
+	<classpathentry kind="lib" path="MyLibrary/Commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="MyLibrary/Commons-fileupload/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="MyLibrary/Commons-codec-1.10/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="MyLibrary/gson-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
